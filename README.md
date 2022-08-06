@@ -5,17 +5,20 @@
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![](https://img.shields.io/badge/OS-Manjaro-blue?logo=manjaro)
 ![](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)
-![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?logo=visualstudio)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
-## С чем работаю :hammer:
-![](https://img.shields.io/badge/Верстка-HTML-informational?logo=html5)
-![](https://img.shields.io/badge/Верстка-CSS-informational?logo=css3)
-![](https://img.shields.io/badge/WEB-JavaScript-informational?logo=javascript)
-![](https://img.shields.io/badge/WEB-TypeScript-informational?logo=typescript)
+## С чем работаю (что умею) :hammer:
+![](https://img.shields.io/badge/TEPM-HTML-informational?logo=html5)
+![](https://img.shields.io/badge/TEMP-CSS-informational?logo=css3)
+![](https://img.shields.io/badge/TEMP-SCSS-informational?logo=sass)
+![](https://img.shields.io/badge/LANG-JavaScript-informational?logo=javascript)
+![](https://img.shields.io/badge/LANG-TypeScript-informational?logo=typescript)
 ![](https://img.shields.io/badge/WEB-Angular-informational?logo=angular)
+![](https://img.shields.io/badge/WEB-React-informational?logo=react)
+![](https://img.shields.io/badge/LIB-Redux-informational?logo=redux)
 ![](https://img.shields.io/badge/WEB-Node.js-informational?logo=nodedotjs)
-![](https://img.shields.io/badge/WEB-Express.js-informational?logo=express)
+![](https://img.shields.io/badge/LIB-Express.js-informational?logo=express)
+![](https://img.shields.io/badge/LINT-ESLint-informational?logo=eslint)
 
 ## Просто раздел :walking:
 - 🌱 Сейчас изучаю React 
