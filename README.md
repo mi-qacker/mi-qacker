@@ -7,18 +7,18 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-Editor-blue?logo=visualstudiocode)
 
 ## С чем работаю (что умею) :hammer:
-### Frontend
+- Frontend:
 ![](https://img.shields.io/badge/Angular-WEB-informational?logo=angular)
 ![](https://img.shields.io/badge/React-WEB-informational?logo=react)
 ![](https://img.shields.io/badge/Next-META-informational?logo=next.js)
 ![](https://img.shields.io/badge/Redux-LIB-informational?logo=redux)
-### Backend
+- Backend:
 ![](https://img.shields.io/badge/Node.js-BACK-informational?logo=nodedotjs)
 ![](https://img.shields.io/badge/Nest.js-BACK-informational?logo=nestdotjs)
 ![](https://img.shields.io/badge/Express.js-LIB-informational?logo=express)
 ![](https://img.shields.io/badge/MongoDB-DB-informational?logo=mongodb)
 ![](https://img.shields.io/badge/PostgreSQL-DB-informational?logo=PostgreSQL)
-### Core
+- Core:
 ![](https://img.shields.io/badge/NX-REPO-informational?logo=nx)
 ![](https://img.shields.io/badge/Turborepo-REPO-informational?logo=Turborepo)
 ![](https://img.shields.io/badge/NGINX-UTIL-informational?logo=NGINX)
