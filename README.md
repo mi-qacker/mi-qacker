@@ -31,7 +31,7 @@ My name is Matthew Kalinin. I am a frontend developer. I work on all sorts of we
 - 🌱 I'm trying to do really cool big projects
 - 📫 You can write to me by email at matvey.kalinin2001@gmail.com. Or, you can contact me on [Telegram](https://t.me/matthewkalinin).
 
-## Социальные сети и другое :speech_balloon:
+## Social networks and other :speech_balloon:
 <div>
 <a href="https://github.com/GrafHollywood"><img src="https://img.shields.io/badge/GitHub-GrafHollywood-brightgreen?logo=GitHub"></a>
 <a href="https://t.me/matthewkalinin"><img src="https://img.shields.io/badge/TG-matthewkalinin-brightgreen?logo=telegram"></a>
